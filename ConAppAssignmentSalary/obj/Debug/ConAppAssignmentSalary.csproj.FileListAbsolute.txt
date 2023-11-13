@@ -1,0 +1,7 @@
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\bin\Debug\ConAppAssignmentSalary.exe.config
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\bin\Debug\ConAppAssignmentSalary.exe
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\bin\Debug\ConAppAssignmentSalary.pdb
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\obj\Debug\ConAppAssignmentSalary.csproj.AssemblyReference.cache
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\obj\Debug\ConAppAssignmentSalary.csproj.CoreCompileInputs.cache
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\obj\Debug\ConAppAssignmentSalary.exe
+C:\DOT NET\Day 6\ConAppAssignmentSalary\ConAppAssignmentSalary\obj\Debug\ConAppAssignmentSalary.pdb
